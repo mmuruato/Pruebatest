@@ -1,0 +1,16 @@
+.signin {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/images/ImagenSignIn.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  
+  .signin-title {
+    margin-bottom: 1rem;
+  }
+  
